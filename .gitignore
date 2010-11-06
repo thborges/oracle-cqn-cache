@@ -1,0 +1,9 @@
+*~*
+*.o
+*.a
+sagrcache
+cliente
+ocilib-3.8.0
+instantclient_11_2
+tags
+*.conf
